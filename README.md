@@ -2,7 +2,7 @@
  Projeto de um jogo de adivinhação onde tem uma interração Web 
 
     Inicio do projeto dia 18/09
-. Foi feito a importação da biblioteca random podendo assim gerar um número aleatorio
+<p>. Foi feito a importação da biblioteca random podendo assim gerar um número aleatorio</p>
     <div align="center">
     <img src="imgs/random.png" width="300">
     </div>
