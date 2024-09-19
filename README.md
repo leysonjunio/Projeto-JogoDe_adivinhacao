@@ -20,3 +20,4 @@
     </div>
 <p>Aqui inicia o loop(While) até que a condição seja verdadeira(Ou seja que jogador acerte o número secreto).</p>
 <p>O meu INPUT vai pedir o jogador para inserir um valor inteiro(str) no console a minha função INT convertera a string para número inteiro e guarda na variavel CHUTE</p>
+<p>Meu if faz as tomadas de decisoes do meu sistema que vereficara se o chute e menor ou maior que número_secreto desta forma vai imprimir na tela as opções pré-configurada</p>
