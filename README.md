@@ -7,13 +7,13 @@
     <img src="imgs/random.png" width="300">
     </div>
 
-. introduzimos o loop While para que possamos conduzir as tentativas e a confirmação do acerto 
-Pois a condição continuara enquanto não for verdadeiro(True)
+<p>. introduzimos o loop While para que possamos conduzir as tentativas e a confirmação do acerto</p>
+<p>Pois a condição continuara enquanto não for verdadeiro(True)</p>
 
      Dia 19/09
-Estou aqui para adicionar algumas palavras abreviadas para subir meu README ou alguma aplicação 
--Atualização (ATZ) = Seria de forma geral 
--Update version (UPV) = Seria atualização unicamente do sistema 
+<p>Estou aqui para adicionar algumas palavras abreviadas para subir meu README ou alguma aplicação</p>
+<p>-Atualização (ATZ) = Seria de forma geral</p>
+<p>-Update version (UPV) = Seria atualização unicamente do sistema</p> 
 
 
 
